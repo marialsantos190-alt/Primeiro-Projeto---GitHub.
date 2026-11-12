@@ -1,4 +1,3 @@
-
 # Material de Estudo - Versionamento com GitHub
 
 ## 1. Versionamento
